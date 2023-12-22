@@ -18,7 +18,9 @@ NA
 
 ## Usage
 
-NA
+Feel free to view below screenshot (ctrl + click).
+
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
