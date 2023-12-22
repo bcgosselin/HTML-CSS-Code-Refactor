@@ -20,7 +20,7 @@ NA
 
 Feel free to view below screenshot (ctrl + click).
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Screenshot.png)
 
 ## Credits
 
