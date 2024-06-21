@@ -1,6 +1,9 @@
 # HTML, CSS: Code Refactor
 Full Stack Web Development Project 1
 
+## Live Website
+https://bcgosselin.github.io/HTML-CSS-Code-Refactor/
+
 ## Description
 
 This project is Robert Gosselin's first web application challenge. This project was created to showcase his skills and aptitude using only text based instructions. This webpage's code was provided, however there were various nuances within the code that needed to be corrected. The goal of this challenge was to simplify and organize the HTML code using semantic elements as well as update the CSS file accordingly, maintaining the styling and layout. Everything included was apart of an ongoing bootcamp to develop and hone Full Stack Web Development skills.
