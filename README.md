@@ -1,4 +1,4 @@
-# HTML, CSS, Git: Code Refactor
+# HTML, CSS: Code Refactor
 Full Stack Web Development Project 1
 
 ## Description
