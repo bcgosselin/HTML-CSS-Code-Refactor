@@ -1,4 +1,4 @@
-# module-1-challenge
+# HTML, CSS, Git: Code Refactor
 Full Stack Web Development Project 1
 
 ## Description
