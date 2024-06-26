@@ -1,5 +1,5 @@
 # HTML, CSS: Code Refactor
-Full Stack Web Development Project 1
+Refactorign of an existing website for a marketing agency to make it more accessible to individuals with disabilities. Utilizies HTML5 semantic elements and CSS3 for styles.
 
 ## Live Website
 https://bcgosselin.github.io/HTML-CSS-Code-Refactor/
